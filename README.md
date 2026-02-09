@@ -1,5 +1,5 @@
 # 💫 About Me:
-• Backend Development Tech Lead with nearly a decade of experience building and scaling web applications using PHP, MySQL, Linux, and Apache. I specialize in designing scalable architectures, streamlining CI/CD pipelines, and managing containerized applications with Docker and Kubernetes on Microsoft Azure.
+A Full Stack and Backend Development Tech Lead with nearly a decade of experience building and scaling web applications using PHP, MySQL, Linux, and Apache. I specialize in designing scalable architectures, streamlining CI/CD pipelines, and managing containerized applications with Docker and Kubernetes on Microsoft Azure.
 
 Currently at Occhio GmbH, I lead backend development initiatives, driving infrastructure optimization and delivering reliable, high-performing solutions.
 
