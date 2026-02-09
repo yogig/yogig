@@ -1,5 +1,11 @@
 # 💫 About Me:
-• Currently working on PHP and full stack web development, including JavaScript projects and Docker containerization<br>• Open to collaborating on different projects<br>• Looking for guidance and support with Kubernetes<br>• Learning modern web application architecture<br>• Happy to discuss web application development<br>• Passionate about e commerce, web application development, and music
+• Backend Development Tech Lead with nearly a decade of experience building and scaling web applications using PHP, MySQL, Linux, and Apache. I specialize in designing scalable architectures, streamlining CI/CD pipelines, and managing containerized applications with Docker and Kubernetes on Microsoft Azure.
+
+Currently at Occhio GmbH, I lead backend development initiatives, driving infrastructure optimization and delivering reliable, high-performing solutions.
+
+Previously at milch & zucker, I developed B2B and B2C applications for leading brands including Lufthansa and Porsche, with a strong focus on secure transactions and custom integrations.
+
+An active Drupal.org community member for over eight years, I’m passionate about open-source collaboration and staying ahead of emerging technologies. My goal is to create efficient, scalable systems that align with business objectives while mentoring teams and fostering innovation.
 
 
 ## 🌐 Socials:
